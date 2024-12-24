@@ -6,3 +6,5 @@ In this tutorial, you’ll build an AI for Tic-Tac-Toe while learning essential 
 * Gathering appropriate training data
 * Choosing the right network architecture
 * Evaluating and refining your model
+
+Have fun learning!✨
